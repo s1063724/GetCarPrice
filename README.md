@@ -9,6 +9,7 @@
 ### GetCarPriceWithKaggle.ipynb 是利用kaggle的資料進行分析
     - 應用資料CarPricesPrediction.csv
 ### 年份預測價錢
-![圖3](/image/carpredict.jpg "Carpredict")
-![圖4](/image/carpredict1.jpg "Carpredict")
+   > ![圖3](/image/carpredict.jpg "Carpredict")
+### 散布圖
+   > ![圖4](/image/carpredict1.jpg "Carpredict")
 
