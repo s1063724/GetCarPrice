@@ -4,3 +4,7 @@
     - 應用資料CarSale.csv 
 ### GetCarPriceWithKaggle.ipynb 是利用kaggle的資料進行分析
     - 應用資料CarPricesPrediction.csv
+![圖一](/image/carpredict.jpg "Carpredict")
+![圖二](/image/carpredict1.jpg "Carpredict")
+![圖三](/image/carpredict2.jpg "Carpredict")
+![圖四](/image/carpredict3.jpg "Carpredict")
