@@ -4,8 +4,8 @@
     - 應用資料CarSale.csv 
 ### 殘差圖
    >  ![圖1](/image/carpredict2.jpg "Carpredict")
-
-![圖2](/image/carpredict3.jpg "Carpredict")
+### 里程預測價錢
+   > ![圖2](/image/carpredict3.jpg "Carpredict")
 ### GetCarPriceWithKaggle.ipynb 是利用kaggle的資料進行分析
     - 應用資料CarPricesPrediction.csv
 ![圖3](/image/carpredict.jpg "Carpredict")
